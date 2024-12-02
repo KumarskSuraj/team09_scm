@@ -30,6 +30,14 @@
                     <view key="view" contentMode="scaleToFill" id="hAr-aX-J0s">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wBC-j2-DdC">
+                                <rect key="frame" x="188" y="379" width="54" height="35"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="test"/>
+                            </button>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="Amc-h9-86N"/>
                         <color key="backgroundColor" systemColor="systemBrownColor"/>
                     </view>
